@@ -1,0 +1,5 @@
+remote_theme: pages-themes/time-machine@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: Aleena Fatima
+description: I am a first-year Computer Science student specializing in Artificial Intelligence and Machine Learning, driven by curiosity about how machines learn and solve problems. I’m building a strong foundation in C and Python while exploring data structures and core AI concepts. I enjoy turning ideas into small projects and continuously improving my problem-solving skills.
